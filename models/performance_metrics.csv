@@ -1,5 +1,0 @@
-Model,Accuracy (%),Parameters (M),Model Size (MB),Inference Time (ms/image)
-ResNet,98.81,23.56,90.15,5.4
-MobileNet,88.58,2.25,9.06,4.89
-SqueezeNet,95.65,0.73,8.47,5.42
-CustomCNN,96.06,0.4,1.52,6.18
